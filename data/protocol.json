@@ -1,0 +1,1 @@
+{"archive":"AER-48 sealed teaching archive; all measurements supplied; no external source","n":48,"block":6,"on_per_block":3,"max_run":3,"hot":[0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0],"hot_on":7,"pre_y":[20,20,20],"threshold":60,"tau_grid":[-4,-3,-2,-1,0,1,2,3,4],"gamma_grid":[-4,-3,-2,-1,0,1,2,3,4]}
